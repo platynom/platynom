@@ -7,7 +7,6 @@
 - 🤖 Passionate about **AI/ML and electronic integrations**.
 
 ## 🏆 Experience & Projects
-- 🔹 **Developed a chatbot** with **SYAA Technologies**, using **API development tools in Python**.
 - 🔹 Skilled in **AI-driven automation** and **software-hardware integration**.
 
 ## 🤝 Collaboration & Contact
